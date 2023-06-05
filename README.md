@@ -1,4 +1,4 @@
-# Hi, I'm Andi Crisan (@andreiCrisan55) 👋
+# Hi, I'm Andi Crisan (@andiCrisan) 👋
 
 I'm a software developer with a strong interest in React Native and everything mobile and JavaScript related. Some of the technologies I have experience with include React, React Native, Nest.js, Node.js, and Express. I'm also interested in blockchain-related technologies and love to explore new technologies and techniques to develop better and more efficient solutions.
 
