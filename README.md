@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Andi Crisan (@andreiCrisan55) 👋
 
-<!--
-**AndiCrisan/AndiCrisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a strong interest in React Native and everything mobile and JavaScript related. Some of the technologies I have experience with include React, React Native, Nest.js, Node.js, and Express. I'm also interested in blockchain-related technologies and love to explore new technologies and techniques to develop better and more efficient solutions.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe that learning is a continuous process, and I'm always seeking to improve my skills and stay up-to-date with the latest trends and best practices in the tech industry. I'm committed to continuous learning and self-improvement to become a better developer and deliver more value to my clients.
+
+## 💞️ Looking to Collaborate
+
+I'm passionate about creating innovative and user-friendly applications that provide real value to the end-users. I'm open to collaborating on creative and bold initiatives that result in high-quality product implementations. If you have any exciting projects that you think could benefit from my skills and experience, feel free to hit me up!
+
+## 👥 Co-founder in a Tech Startup
+
+I am also a co-founder in a tech startup that is about to launch this year. We are building a groundbreaking product that aims to revolutionize the industry. Stay tuned for more updates!
+
+## 📫 How to Reach Me
+
+You can connect with me on 🐦[Twitter](https://twitter.com/andreiCrisan55), 📱💬Telegram (@andiCrisan), 💼[LinkedIn](https://www.linkedin.com/in/andrei-crisan-47388515a/), or via 📧email andrei.i.crisan@gmail.com. 
+
+---
+
+Thanks for stopping by! Let's create something cool together!
