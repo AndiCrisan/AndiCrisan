@@ -6,7 +6,7 @@ I'm a software developer with a strong interest in React Native and everything m
 
 I believe that learning is a continuous process, and I'm always seeking to improve my skills and stay up-to-date with the latest trends and best practices in the tech industry. I'm committed to continuous learning and self-improvement to become a better developer and deliver more value to my clients.
 
-## 💞️ Looking to Collaborate
+## 🤝 Looking to Collaborate
 
 I'm passionate about creating innovative and user-friendly applications that provide real value to the end-users. I'm open to collaborating on creative and bold initiatives that result in high-quality product implementations. If you have any exciting projects that you think could benefit from my skills and experience, feel free to hit me up!
 
